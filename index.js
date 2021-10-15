@@ -19,7 +19,6 @@ app.get('/', function(req, res) {
 })
 
 app.get('/api/sciencefactiontoken/:token_id', function(req, res) {
-  const tokenId = parseInt(req.params.token_id).toString()
   const nftmeta = db[tokenId];
   const data = nftmeta;
   console.log (data);
