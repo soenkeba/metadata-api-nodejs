@@ -1,0 +1,11 @@
+{
+    "description": "Selbstgemachte Metadaten ganz lange ID, wie ipfs",
+    "external_url": "akasha.world",
+    "image": "ipfs://Qmc5DMotaCgtZad3v956PoKiNEsHptoUova5MqexZqS9dA",
+    "name": "Komplett selbstgemachte Metadaten nach Open Sea standard",
+    "attributes": {
+        "waschmittel": "nein",
+        "raccoon": "ja",
+        "zecke": "ausm wald 3373"
+    }
+}
