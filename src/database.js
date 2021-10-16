@@ -55,7 +55,7 @@ module.exports = {
 		},
 	},
 
-	"1559ae4021a9c84fa506cb76691054c2b92f655222cde2437d77ed21c083c4d": {
+	"1559AE4021A9C84FA506CB76691054C2B92F655222CDE2437D77ED21C083C4D": {
 		"description": "Selbstgemachte Metadaten ganz lange ID, wie ipfs",
 		"external_url": "akasha.world",
 		"image": "ipfs://Qmc5DMotaCgtZad3v956PoKiNEsHptoUova5MqexZqS9dA",
